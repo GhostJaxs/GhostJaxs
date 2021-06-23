@@ -6,6 +6,6 @@ Watching Rick and Morty relaxes me
 
 Skills: Python
 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Anything 
 - 💬 Ask me about Life 
